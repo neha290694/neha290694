@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+<h3 align="center">Learner trying to Figure-Out Stuff!!</h3>
 
 - 🔭 I’m currently working on **Django framework**
 
